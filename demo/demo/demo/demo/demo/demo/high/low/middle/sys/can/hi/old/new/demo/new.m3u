@@ -20,6 +20,11 @@ https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NCxhc1m/Sportdigital-Fussball-stacked.png" group-title="Football", FUSSBALL TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Football", TELEMUNDO FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
@@ -82,8 +87,3 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398
 https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NCxhc1m/Sportdigital-Fussball-stacked.png" group-title="Football", FUSSBALL TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
