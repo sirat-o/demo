@@ -4,6 +4,10 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://variety.com/wp-content/uploads/2023/08/Fox-Sports.png" group-title="Football",FOX sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jyocixinuk/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-name="FOX ONE" tvg-logo="https://i.postimg.cc/tJB8Fr8c/fox-one.png" group-title="General",FOX ONE
 #EXTVLCOPT:http-user-agent=Mozila
 #KODIPROP:inputstream.adaptive.license_type=clearkey
