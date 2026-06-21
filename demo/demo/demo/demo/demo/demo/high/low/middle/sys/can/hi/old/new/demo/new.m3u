@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:WC Playlist
+#EXTINF:-1 tvg-name="Piscreen" group-title="General",Piscreen
+https://tahmidx.cinemoja2.workers.dev/
 #EXTINF:-1 tvg-name="CTV" group-title="Football",CTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
@@ -88,3 +90,4 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-name="🚫beIN Sports 5 max 4k" tvg-logo="https://i.postimg.cc/2yVxtGV6/Logo-Bein-Sports-5-MAX-svg.png" group-title="General",🚫beIN Sports 5 max 4k
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
+
