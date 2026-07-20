@@ -1,1 +1,0 @@
-This repository contains only publicly available hyperlinks sourced from GitHub. I do not host, stream, or distribute any media content directly. This repository is strictly private and intended for personal use only.
